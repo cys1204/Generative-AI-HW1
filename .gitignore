@@ -1,3 +1,10 @@
 notebooks/data
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
+__pycache__/
+*.pyc
+GAN_Assignment/face_generation_dcgan/data/
+GAN_Assignment/image_translation_cyclegan/data/
+GAN_Assignment/super_resolution_wgan/data/
+checkpoints/
+outputs/
